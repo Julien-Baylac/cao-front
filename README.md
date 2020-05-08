@@ -14,6 +14,8 @@
 
 > My web site : http://julienbaylac.com / Official web site : http://cabanesaoiseaux.fr/
 
+> If you want to download the full documentation you can get it there : https://www.fichier-pdf.fr/2020/05/08/cabanes-a-oiseaux/cabanes-a-oiseaux.pdf
+
 > A travers cette application, nous espérons aider les personnes autistes et leur famille à pouvoir sortir sans peur de la surcharge sensorielle, mais aussi les établissements à s’adapter aux personnes les plus sensibles. Notre travail s’est porté sur trois problématiques essentielles : les interactions sociales, l’hyper sensorialité et l’information.
 
 ### Interactions sociales
