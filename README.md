@@ -17,6 +17,15 @@ Les personnes autistes sont régulièrement sujettes aux surcharges sensorielles
 ### Information
 Les TSA sont encore mal connues du grand public et victimes de beaucoup de stéréotypes. Le projet permettrait de sensibiliser et de donner les clés aux personnes qui le souhaitent pour mieux connaitre et mieux réagir face a l’autisme.
 
+### Répertorier les lieux adaptés à vos besoins
+Les Cabanes à Oiseaux proposent de travailler avec les associations pour répertorier les lieux dont le design et les services prennent en compte les besoins spécifiques à l’autisme.
+
+### Trouver les informations sur les lieux reférencés
+En cliquant sur l’icone d’un lieu, une page d’information apparaîtra. Elle permet d’exposer toutes les informations utiles liées à cet établissement : le nom, un bref descriptif, les horaires, et les badges de services, d’informations ou de design qu’elle a validés. Elle permet également d’appeler facilement l’établissement et de trouver l’itinéraire le plus rapide pour s’y rendre.
+
+### Un système de badges
+Il y a autant de formes d’autisme que de personnes autistes. A l’instar des neurotypiques (personnes non autistes), tous ont des besoins différents.
+Le système de badges permet de voir d’un simple coup d’oeil les caractéristiques utiles d’un établissement ou d’un service pour repérer celles qui correspondent à vos besoins.
 
 ## Build Setup
 
