@@ -1,8 +1,10 @@
 # Cabanes à Oiseaux - Web Application
 
-> framework : vue js / webpack - leaflet js
+> framework : vue js / webpack - https://vuejs.org/
 
-> css : materialize
+> to use the map : leaflet js - https://leafletjs.com/
+
+> css : materialize - https://materializecss.com/
 
 > backend project there : https://github.com/Julien-Baylac/cao-back
 
