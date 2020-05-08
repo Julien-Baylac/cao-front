@@ -1,6 +1,8 @@
 # Cabanes à Oiseaux - Web Application
 
-> vue js / webpack
+> framework : vue js / webpack - leaflet js
+> css : materialize
+> backend project there : https://github.com/Julien-Baylac/cao-back
 
 # Presentation du projet
 
@@ -26,6 +28,13 @@ En cliquant sur l’icone d’un lieu, une page d’information apparaîtra. Ell
 ### Un système de badges
 Il y a autant de formes d’autisme que de personnes autistes. A l’instar des neurotypiques (personnes non autistes), tous ont des besoins différents.
 Le système de badges permet de voir d’un simple coup d’oeil les caractéristiques utiles d’un établissement ou d’un service pour repérer celles qui correspondent à vos besoins.
+
+### Comment sont-ils obtenus ?
+Pour éviter les dérives de certaines applications, les Cabanes à Oiseaux proposent un protocole pour encadrer l’obtention des badges. Au vu du travail formidable des associations, nous leur faisons entièrement confiance pour valider les badges. Il sera possible de voir sur ces derniers le logo de l’association qui les aura validés.
+
+### Et pourquoi ce nom d’application ?
+Les personnes autistes sont parfois appelées “oiseaux” car l’une des stéréotypies est un mouvement des bras qui rappelle des battements d’aile.
+L’idée de l’application est de trouver des lieux apaisants près de chez soi comme les oiseaux trouvent des cabanes pour se reposer.
 
 ## Build Setup
 
