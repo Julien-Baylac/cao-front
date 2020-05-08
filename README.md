@@ -5,7 +5,6 @@
 # Presentation
 
 > My web site : http://julienbaylac.com
-
 > Official web site : http://cabanesaoiseaux.fr/
 
 ## Build Setup
